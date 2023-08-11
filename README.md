@@ -22,6 +22,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SouleymaneSy7&theme=dracula&hide_border=false" alt="souleymanesy7" /></p>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SouleymaneSy7)](https://github.com/anuraghazra/github-readme-stats)
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SouleymaneSy7&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="souleymanesy7" /></p>
 
 
