@@ -1,11 +1,9 @@
 <h1 align="center">Hello, My Name is Souleymane 👋</h1> 
 <h3 align="center">A Self-taught Developper From Africa</h3>
 <br>
+<p align="center">I am a Web Developer with a passion for creating dynamic and user-friendly websites. Self-taught in programming, I bring a unique perspective and drive to every project I work on. I am eager to continuously expand my skills.</p>
 <br>
-<p align="center" width="100%"><img align="center" src="https://img.freepik.com/free-vector/web-development-isometric-landing-page-coding_107791-2493.jpg?w=1380&t=st=1677458674~exp=1677459274~hmac=acbbc81e73e640b64d392f3388dc25ce39f8dfaa6ee160c41843e44ce9a5a27e" /> </p>
-<p align="center">I am a Junior Web Developer with a passion for creating dynamic and user-friendly websites. Self-taught in programming, I bring a unique perspective and drive to every project I work on. I am eager to continuously expand my skills.</p>
-<br>
-🌱 I’m currently learning <strong>Vue Js</strong><br> 
+🌱 I’m currently learning <strong>Vue Js, Pinia</strong><br> 
 💬 Ask me about <strong>HTML, CSS, Javascript & Vue</strong><br>
 📫 How to reach me <strong> souleymanesyservices@gmail.com </strong>
 
