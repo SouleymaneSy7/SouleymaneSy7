@@ -31,12 +31,14 @@
 
 <!-- Section 4: Introduction -->
 
-Greetings, fellow web enthusiast! I am **Souleymane** 👋, and this is where
-my front-end magic happens. ✨💻 <br>
-**Join me in the dynamic world of frontend web development, where code
-transforms into captivating user interfaces, and digital experiences come
-to life.** In this realm, we celebrate the art of crafting beautiful web
-solutions and staying on the cutting edge of the front-end technologies.
+<p align="center">
+  Greetings, fellow web enthusiast! I am **Souleymane** 👋, and this is where
+  my front-end magic happens. ✨💻 <br>
+  **Join me in the dynamic world of frontend web development, where code
+  transforms into captivating user interfaces, and digital experiences come
+  to life.** In this realm, we celebrate the art of crafting beautiful web
+  solutions and staying on the cutting edge of the front-end technologies.
+</p>
 
 <!-- Section 4: Languages and Tools -->
 
