@@ -32,11 +32,11 @@
 <!-- Section 4: Introduction -->
 
 <p align="center">
-  Greetings, fellow web enthusiast! I am **Souleymane** 👋, and this is where
+  Greetings, fellow web enthusiast! I am <b>Souleymane</b> 👋, and this is where
   my front-end magic happens. ✨💻 <br>
-  **Join me in the dynamic world of frontend web development, where code
+  <b>Join me in the dynamic world of frontend web development, where code
   transforms into captivating user interfaces, and digital experiences come
-  to life.** In this realm, we celebrate the art of crafting beautiful web
+  to life.</b> In this realm, we celebrate the art of crafting beautiful web
   solutions and staying on the cutting edge of the front-end technologies.
 </p>
 
