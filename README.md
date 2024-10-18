@@ -149,7 +149,7 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Github Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SouleymaneSy7&theme=onedark&hide_border=true&size_weight=0.5&count_weight=0.5&border=true&langs_count=8" /></a>
+    <img alt="Github Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SouleymaneSy7&theme=onedark&&border=true&langs_count=8" /></a>
   <a href="https://github.com/PiyushSuthar/github-readme-quotes" >
     <img alt="Github Dev Quotes" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=monokai&border=true" /></a>
 </p>
