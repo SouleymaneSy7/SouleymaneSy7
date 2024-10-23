@@ -1,11 +1,4 @@
-<!-- Section 1: Automated Typing -->
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&pause=1000&color=CD5A57&random=true&width=700&height=50&lines=Web+Visionary%3A+Creator+of+Stunning+Interfaces;CSS+Navigator%3A+Sailing+between+Aesthetics+%26+Performance;JavaScript+Virtuoso%3A+Building+Dynamic+User+Interfaces;Responsive+Visionary%3A+Crafting+for+Modern+Screens;Web+Artisan%3A+Crafting+User-Centric+Experiences" alt="Typing SVG" /></a>
-</p>
-
-<!-- Section 2: Customs Banner -->
+<!-- Section 1: Customs Banner -->
 
 <p align="center">
   <a href="https://github.com/SouleymaneSy7/">
@@ -14,7 +7,7 @@
 
 <br>
 
-<!--  Section 3: Social Badges Icons -->
+<!--  Section 2: Social Badges Icons -->
 
 <p align="center">
   <a href="https://github.com/SouleymaneSy7" title="My Followers On Github">
@@ -29,7 +22,7 @@
     <img alt="Gmail Badge" src="https://img.shields.io/badge/souleymanesyservices%40gmail.com-AE2D68?style=for-the-badge&logo=gmail&logoColor=fff&label=GMAIL&labelColor=791f48&link=mail" /></a>
 </p>
 
-<!-- Section 4: Introduction -->
+<!-- Section 3: Introduction -->
 
 <p align="center">
   Greetings, fellow web enthusiast! I am <b>Souleymane</b> 👋, and this is where
@@ -55,16 +48,37 @@
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" />
+    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
   </a>
   <a href="#">
     <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" />
   </a>
   <a href="#">
     <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" />
   </a>
   <a href="#">
     <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220" />
   </a>
   <a href="#">
     <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" />
@@ -82,7 +96,16 @@
     <img src="https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white" />
   </a>
   <a href="#">
+    <img src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black" />
+  </a>
+  <a href="#">
     <img src="https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white" />
   </a>
   <a href="#">
     <img src="https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white" />
@@ -103,10 +126,43 @@
     <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
   </a>
   <a href="#">
+    <img src="https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" />
+  </a>
+  <a href="#">
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   </a>
   <a href="#">
+    <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important" />
+  </a>
+  <a href="#">
     <img src="https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  </a>  
+  <a href="#">
+    <img src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white" />
+  </a>  
+  <a href="#">
+    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Tails%20-56347C?&style=for-the-badge&logo=tails&logoColor=white" />
+  </a>  
+  <a href="#">
+    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  </a>  
+  <a href="#">
+    <img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white" />
   </a>
 </p>
 
@@ -118,10 +174,10 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=SouleymaneSy7&theme=onedark&hide_border=true&show_icons=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=SouleymaneSy7&theme=material-palenight&hide_border=true&show_icons=true" />
   </a>
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=SouleymaneSy7&theme=onedark&hide_border=true&border_radius=5" />
+    <img src="https://streak-stats.demolab.com/?user=SouleymaneSy7&theme=material-palenight&hide_border=true&border_radius=5" />
   </a>
 </p>
 
@@ -129,7 +185,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" >
-    <img alt="Github Trophy" src="https://github-profile-trophy.vercel.app/?username=SouleymaneSy7&theme=onedark&no-frame=true&no-bg=false&margin-w=5&row=1&column=4" />
+    <img alt="Github Trophy" src="https://github-profile-trophy.vercel.app/?username=SouleymaneSy7&theme=nord&hide_border=true&margin-w=5&row=1&column=4" />
   </a>
 </p>
 
@@ -139,20 +195,24 @@
 
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img alt="Github Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=SouleymaneSy7&theme=rogue&custom_title=Souleymane's%20Activity%20Graph&hide_border=true" />
+    <img alt="Github Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=SouleymaneSy7&theme=rogue&custom_title=Souleymane's%20Activity%20Graph&hide_border=true&bg_color=292c3d&radius=5&line=a487c6" />
   </a>
 </p>
 
-<!-- Section 6: Top Languages and Dev Quotes -->
+<!-- Section 7: Top Languages and Dev Quotes -->
 
 <h3>⭐️ Top Languages & Some Random Dev Quotes</h3>
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Github Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SouleymaneSy7&theme=onedark&&border=true&langs_count=8" /></a>
+    <img alt="Github Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SouleymaneSy7&theme=material-palenight&border=true&border_color=a487c6&langs_count=8" />
+  </a>
   <a href="https://github.com/PiyushSuthar/github-readme-quotes" >
-    <img alt="Github Dev Quotes" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=monokai&border=true" /></a>
+    <img alt="Github Dev Quotes" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=catppuccin_mocha&border=true" />
+  </a>
 </p>
+
+
 
 <!-- Section 8: Recents Activities -->
 
