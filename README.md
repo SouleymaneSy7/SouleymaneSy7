@@ -16,8 +16,6 @@
     <img alt="GitHub User's stars Badge" src="https://img.shields.io/github/stars/souleymanesy7?affiliations=OWNER&style=for-the-badge&label=STARS&labelColor=176d64&color=219C90&link=https%3A%2F%2Fgithub.com%2FSouleymaneSy7%3Ftab%3Dstars"></a>
   <a href="https://twitter.com/souleymanesy43" title="Follow Me On Twitter">
     <img alt="Twitter Badge" src="https://img.shields.io/twitter/follow/souleymanesy43?label=%40souleymanesy43&style=for-the-badge&logo=twitter&logoColor=fff&labelColor=146AA8&color=1d98f0&link=https%3A%2F%2Ftwitter.com%2Fsouleymanesy43" /></a>
-  <a href="https://codepen.io/souleymanesy7" title="Follow Me On Codepen.io">
-    <img alt="Codepen Badge" src="https://img.shields.io/badge/CODEPEN-242526?style=for-the-badge&logo=codepen&logoColor=fff&label=FOLLOW%20ON&labelColor=9d7b4a&color=E1B16A&link=https%3A%2F%2Fcodepen.io%2Fsouleymanesy7%2F"/></a>
   <a href="mailto:souleymanesyservices@gmail.com" title="Send Me An E-mail">
     <img alt="Gmail Badge" src="https://img.shields.io/badge/souleymanesyservices%40gmail.com-AE2D68?style=for-the-badge&logo=gmail&logoColor=fff&label=GMAIL&labelColor=791f48&link=mail" /></a>
 </p>
