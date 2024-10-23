@@ -5,6 +5,12 @@
     <img src="./assets/my-github-banner.png" /></a>
 </p>
 
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=souleymanesy7&label=Profile%20Views&color=7&icon=8&pretty=false" />
+  </a>
+</p>
+
 <br>
 
 <!--  Section 2: Social Badges Icons -->
@@ -15,9 +21,11 @@
   <a href="https://github.com/SouleymaneSy7?tab=stars" title="My Stars On Github">
     <img alt="GitHub User's stars Badge" src="https://img.shields.io/github/stars/souleymanesy7?affiliations=OWNER&style=for-the-badge&label=STARS&labelColor=176d64&color=219C90&link=https%3A%2F%2Fgithub.com%2FSouleymaneSy7%3Ftab%3Dstars"></a>
   <a href="https://twitter.com/souleymanesy43" title="Follow Me On Twitter">
-    <img alt="Twitter Badge" src="https://img.shields.io/twitter/follow/souleymanesy43?label=%40souleymanesy43&style=for-the-badge&logo=twitter&logoColor=fff&labelColor=146AA8&color=1d98f0&link=https%3A%2F%2Ftwitter.com%2Fsouleymanesy43" /></a>
+    <img alt="Twitter Badge" src="https://img.shields.io/twitter/follow/souleymanesy43?label=%40souleymanesy43&style=for-the-badge&logo=twitter&logoColor=fff&labelColor=146AA8&color=1d98f0&link=https%3A%2F%2Ftwitter.com%2Fsouleymanesy43" />
+  </a>
   <a href="mailto:souleymanesyservices@gmail.com" title="Send Me An E-mail">
-    <img alt="Gmail Badge" src="https://img.shields.io/badge/souleymanesyservices%40gmail.com-AE2D68?style=for-the-badge&logo=gmail&logoColor=fff&label=GMAIL&labelColor=791f48&link=mail" /></a>
+    <img alt="Gmail Badge" src="https://img.shields.io/badge/souleymanesyservices%40gmail.com-AE2D68?style=for-the-badge&logo=gmail&logoColor=fff&label=GMAIL&labelColor=791f48&link=mail" />
+  </a>
 </p>
 
 <!-- Section 3: Introduction -->
