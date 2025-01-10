@@ -13,18 +13,17 @@ jobs:
     steps:
       - uses: athul/waka-readme@master
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SECTION_NAME: "waka-readme"
           COMMIT_MESSAGE: "config: updated waka-readme graph with new metrics"
           BLOCKS: "░▒▓█"
           TIME_RANGE: all_time
-          CODE_LANG: typescript javascript rust
+          CODE_LANG: typescript
           LANG_COUNT: 10
           SHOW_TIME: true
           SHOW_TOTAL: true
           SHOW_MASKED_TIME: true
           SHOW_TITLE: true
-          IGNORED_LANGUAGES: YAML JSON TOML
           AUTHOR_NAME: "SouleymaneSy7"
           AUTHOR_EMAIL: "souleymanesyservices@gmail.com"
