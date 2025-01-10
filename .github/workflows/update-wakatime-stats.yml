@@ -32,4 +32,3 @@ jobs:
           SHOW_LOC_CHART: "False"
           SHOW_DAYS_OF_WEEK: "True"
           SHOW_SHORT_INFO: "True"
-          SYMBOL_VERSION: 3
