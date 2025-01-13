@@ -87,7 +87,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=SouleymaneSy7&theme=nord&hide_border=true&show_icons=true&hide=prs" />
   </a>
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=SouleymaneSy7&theme=nord&hide_border=true&border_radius=5" alt="My Github Streak Stats" />
+    <img src="https://streak-stats.demolab.com?user=SouleymaneSy7&theme=nord&hide_border=true&border_radius=5" alt="My Github Streak Stats" />
   </a>
   <a href="https://github.com/ryo-ma/github-profile-trophy" >
     <img alt="Github Trophy" src="https://github-profile-trophy.vercel.app/?username=souleymanesy7&theme=nord&margin-w=3&row=1&column=4" />
