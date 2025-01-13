@@ -112,4 +112,5 @@
 <h3>🕓 Recent Activities</h3>
 
 <!--START_SECTION:activity-->
+1. ❗ Opened issue [#5051](https://github.com/vercel/on-demand-isr/issues/5051) in [vercel/on-demand-isr](https://github.com/vercel/on-demand-isr)
 <!--END_SECTION:activity-->
