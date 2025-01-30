@@ -40,12 +40,13 @@
       "React",
       "Next.js",
       "Vue",
+      "GSAP",
       "Sass",
       "TailwindCSS"
     ],
     "tools": ["Git", "Github", "VS Code", "Figma"]
   },
-  "currentlyLearning": ["Next.js", "Nuxt.js", "GSAP", "Three.js", "Creative Coding"],
+  "currentlyLearning": ["Three.js", "Nuxt.js", "Creative Coding"],
   "spokenLanguages": ["French (Native)", "English (Professional Proficiency)"],
   "contact": {
     "email": "souleymanesyservices@gmail.com",
@@ -152,14 +153,11 @@ JavaScript               3 repos             █░░░░░░░░░░�
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=SouleymaneSy7&theme=nord&hide_border=true&show_icons=true&hide=prs" />
-  </a>
+    <img src="https://github-readme-stats.vercel.app/api?username=souleymanesy7&theme=nord&hide_border=true&show_icons=true&hide=prs" alt="My Github Stats" /></a>
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=SouleymaneSy7&theme=nord&hide_border=true&border_radius=5" alt="My Github Streak Stats" />
-  </a>
+    <img src="https://streak-stats.demolab.com/?user=SouleymaneSy7&theme=nord&hide_border=true&border_radius=5" alt="My Github Streak Stats" /></a>
   <a href="https://github.com/ryo-ma/github-profile-trophy" >
-    <img alt="Github Trophy" src="https://github-profile-trophy.vercel.app/?username=souleymanesy7&theme=nord&margin-w=3&row=1&column=4" />
-  </a>
+    <img src="https://github-profile-trophy.vercel.app/?username=souleymanesy7&theme=nord&margin-w=3&row=1&column=4" alt="My Github Trophies" /></a>
 </p>
 
 <!-- Section 7: Top Languages and Dev Quotes -->
