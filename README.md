@@ -50,6 +50,7 @@
   "spokenLanguages": ["French (Native)", "English (Professional Proficiency)"],
   "contact": {
     "email": "souleymanesyservices@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/souleymane-sy-a40ba9357"
     "X/twitter": "https://twitter.com/souleymanesy43",
     "codepen": "https://codepen.io/souleymanesy7"
   },
