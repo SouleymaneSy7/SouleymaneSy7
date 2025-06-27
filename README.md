@@ -5,7 +5,7 @@
     <img src="./assets/my-github-banner.png" /></a>
 </p> -->
 
-<a href="https://gitroll.io/profile/uvqwwvT5iUEaaPhkoTAZ5RsU2psV2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uvqwwvT5iUEaaPhkoTAZ5RsU2psV2?theme=tokyoNight" alt="GitRoll Profile Badge"/></a>
+<a href="https://gitroll.io/profile/uvqwwvT5iUEaaPhkoTAZ5RsU2psV2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uvqwwvT5iUEaaPhkoTAZ5RsU2psV2?theme=nord" alt="GitRoll Profile Badge"/></a>
 
 <!--  Section 2: Social Badges Icons -->
 
@@ -51,12 +51,12 @@
   "currentlyLearning": ["Three.js", "Nuxt.js", "Creative Coding"],
   "spokenLanguages": ["French (Native)", "English (Professional Proficiency)"],
   "contact": {
-    "email": "souleymanesyservices@gmail.com",
+    "email": "souleymanesydeveloppers@gmail.com",
     "linkedin": "https://www.linkedin.com/in/souleymane-sy-a40ba9357"
     "X/twitter": "https://twitter.com/souleymanesy43",
     "codepen": "https://codepen.io/souleymanesy7"
   },
-  "hobbies": ["Hairdressing", "Gaming", "Movies"]
+  "hobbies": ["Gaming", "Movies"]
 }
 ```
 
