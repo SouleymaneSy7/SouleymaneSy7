@@ -1,9 +1,11 @@
 <!-- Section 1: Customs Banner -->
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/SouleymaneSy7/">
     <img src="./assets/my-github-banner.png" /></a>
-</p>
+</p> -->
+
+<a href="https://gitroll.io/profile/uvqwwvT5iUEaaPhkoTAZ5RsU2psV2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uvqwwvT5iUEaaPhkoTAZ5RsU2psV2?theme=tokyoNight" alt="GitRoll Profile Badge"/></a>
 
 <!--  Section 2: Social Badges Icons -->
 
