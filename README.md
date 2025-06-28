@@ -185,5 +185,5 @@ JavaScript               2 repos             █░░░░░░░░░░�
 <h3>🕓 Recent Activities</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3766](https://github.com/drizzle-team/drizzle-orm/issues/3766#issuecomment-2972848522) in [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm)
+1. 🗣 Commented on [#250](https://github.com/donnemartin/system-design-primer/issues/250#issuecomment-3014064261) in [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)
 <!--END_SECTION:activity-->
