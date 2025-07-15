@@ -3,7 +3,7 @@ name: wakatime-stats-readme
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 6 * * *" # Runs every 1 day at 6:00 am.
+    - cron: "*/5 * * * *" # Runs every 1 day at 6:00 am.
 
 jobs:
   update-readme:
@@ -21,14 +21,14 @@ jobs:
           COMMIT_EMAIL: "souleymanesyservices@gmail.com"
           SHOW_OS: "True"
           SHOW_PROJECTS: "True"
-          SHOW_UPDATED_DATE: "True"
+          SHOW_UPDATED_DATE: "False"
           SHOW_PROFILE_VIEWS: "False"
           SHOW_EDITORS: "True"
           SHOW_LANGUAGE: "True"
           SHOW_LANGUAGE_PER_REPO: "True"
           SHOW_LINES_OF_CODE: "True"
           SHOW_COMMIT: "True"
-          SHOW_LOC_CHART: "True"
+          SHOW_LOC_CHART: "False"
           SHOW_DAYS_OF_WEEK: "True"
           SHOW_SHORT_INFO: "True"
-          SYMBOL_VERSION: 3
+          SYMBOL_VERSION: 2
