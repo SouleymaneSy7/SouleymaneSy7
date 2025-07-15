@@ -46,9 +46,9 @@
       "Sass",
       "TailwindCSS"
     ],
-    "tools": ["Git", "Github", "VS Code", "Figma"]
+    "tools": ["Git", "Github", "VS Code", "Vim", "Figma"]
   },
-  "currentlyLearning": ["Three.js", "Nuxt.js", "Creative Coding"],
+  "currentlyLearning": ["Three.js", "Creative Coding"],
   "spokenLanguages": ["French (Native)", "English (Professional Proficiency)"],
   "contact": {
     "email": "souleymanesydeveloppers@gmail.com",
@@ -74,24 +74,24 @@
 
 <h2>📊 Wakatime Stats</h2>
 
-<!--START_SECTION:waka-readme-stats-->
+<!--START_SECTION:wakatime-readme-stats-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-626%20hrs%209%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-286.7%20thousand%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My GitHub Data**
 
-> 📦 252.5 kB Used in GitHub's Storage 
- > 
+> 📦 252.5 kB Used in GitHub's Storage
+ >
 > 🏆 1,004 Contributions in the Year 2025
- > 
+ >
 > 💼 Opted to Hire
- > 
-> 📜 84 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
-**I'm a Night 🦉** 
+ >
+> 📜 84 Public Repositories
+ >
+> 🔑 0 Private Repositories
+ >
+**I'm a Night 🦉**
 
 ```text
 🌞 Morning                198 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
@@ -99,7 +99,8 @@
 🌃 Evening                625 commits         █████████░░░░░░░░░░░░░░░░   34.53 % 
 🌙 Night                  344 commits         █████░░░░░░░░░░░░░░░░░░░░   19.01 % 
 ```
-📅 **I'm Most Productive on Wednesday** 
+
+📅 **I'm Most Productive on Wednesday**
 
 ```text
 Monday                   262 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
@@ -111,8 +112,7 @@ Saturday                 222 commits         ███░░░░░░░░�
 Sunday                   126 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 🕑︎ Time Zone: Africa/Conakry
@@ -136,7 +136,7 @@ nvim                     22 mins             ██░░░░░░░░░�
 Linux                    6 hrs 4 mins        █████████████████████████   100.00 % 
 ```
 
-**I Mostly Code in SCSS** 
+**I Mostly Code in SCSS**
 
 ```text
 SCSS                     35 repos            ████████████░░░░░░░░░░░░░   46.67 % 
@@ -146,10 +146,7 @@ HTML                     5 repos             ██░░░░░░░░░�
 JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
 ```
 
-
-
-
-<!--END_SECTION:waka-readme-stats-->
+<!--END_SECTION:wakatime-readme-stats-->
 
 <!--START_SECTION:waka-simple-->
 <!--END_SECTION:waka-simple-->
@@ -187,5 +184,4 @@ JavaScript               2 repos             █░░░░░░░░░░�
 <h3>🕓 Recent Activities</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#250](https://github.com/donnemartin/system-design-primer/issues/250#issuecomment-3039424158) in [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)
 <!--END_SECTION:activity-->
