@@ -14,7 +14,7 @@
 <p align="center">
   <a href="https://github.com/SouleymaneSy7" title="My Followers On Github"><img alt="Github Follower's Badgge" src="https://img.shields.io/github/followers/souleymanesy7?style=for-the-badge&logo=github&logoColor=FFF&labelColor=0d1118&color=272932"></a>  
   <a href="https://github.com/SouleymaneSy7?tab=stars" title="My Stars On Github"><img alt="GitHub User's stars" src="https://img.shields.io/github/stars/souleymanesy7?affiliations=OWNER&style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1NzYgNTEyIj48IS0tIUZvbnQgQXdlc29tZSBGcmVlIDYuNy4yIGJ5IEBmb250YXdlc29tZSAtIGh0dHBzOi8vZm9udGF3ZXNvbWUuY29tIExpY2Vuc2UgLSBodHRwczovL2ZvbnRhd2Vzb21lLmNvbS9saWNlbnNlL2ZyZWUgQ29weXJpZ2h0IDIwMjUgRm9udGljb25zLCBJbmMuLS0%2BPHBhdGggZmlsbD0iI2ZmZmZmZiIgZD0iTTMxNi45IDE4QzMxMS42IDcgMzAwLjQgMCAyODguMSAwcy0yMy40IDctMjguOCAxOEwxOTUgMTUwLjMgNTEuNCAxNzEuNWMtMTIgMS44LTIyIDEwLjItMjUuNyAyMS43cy0uNyAyNC4yIDcuOSAzMi43TDEzNy44IDMyOSAxMTMuMiA0NzQuN2MtMiAxMiAzIDI0LjIgMTIuOSAzMS4zczIzIDggMzMuOCAyLjNsMTI4LjMtNjguNSAxMjguMyA2OC41YzEwLjggNS43IDIzLjkgNC45IDMzLjgtMi4zczE0LjktMTkuMyAxMi45LTMxLjNMNDM4LjUgMzI5IDU0Mi43IDIyNS45YzguNi04LjUgMTEuNy0yMS4yIDcuOS0zMi43cy0xMy43LTE5LjktMjUuNy0yMS43TDM4MS4yIDE1MC4zIDMxNi45IDE4eiIvPjwvc3ZnPg%3D%3D&label=Github%20Star&labelColor=0d1118&color=272932"></a>
-  <a href="mailto:souleymanesyservices@gmail.com" title="Send Me An E-mail"><img alt="Gmail Badge" src="https://img.shields.io/badge/souleymanesyservices%40gmail.com-272932?style=for-the-badge&logo=gmail&logoColor=fff&label=GMAIL&labelColor=0d1118&link=mail" /></a>
+  <a href="mailto:souleymanesydeveloppers@gmail.com" title="Send Me An E-mail"><img alt="Gmail Badge" src="https://img.shields.io/badge/souleymanesyservices%40gmail.com-272932?style=for-the-badge&logo=gmail&logoColor=fff&label=GMAIL&labelColor=0d1118&link=mail" /></a>
 </p>
 
 <!-- Section 3: About Me -->
@@ -23,17 +23,18 @@
 
 ```json
 {
-  "firstName": "Souleymane",
-  "lastName": "Sy",
+  "first_name": "Souleymane",
+  "last_name": "Sy",
   "title": "Frontend Web Developer",
   "location": "Conakry, Guinea - Africa",
+  "pronouns": ["He", "Him"],
   "education": {
     "path": "Self-taught",
-    "description": "Self-directed education in Web development and related technologies.",
-    "since": 2022,
+    "description": "Self-directed learning in web development and modern technologies.",
+    "since": 2022
   },
   "technologies": {
-    "frontEnd": [
+    "front_end": [
       "HTML",
       "CSS",
       "JavaScript",
@@ -43,20 +44,46 @@
       "Next.js",
       "Vue",
       "GSAP",
+      "Framer Motion",
       "Sass",
       "TailwindCSS"
     ],
-    "tools": ["Git", "Github", "VS Code", "Vim", "Figma"]
+    "tools": [
+      "Git",
+      "GitHub",
+      "NeoVim",
+      "Vim",
+      "VS Code",
+      "Figma",
+      "Pop Os",
+      "Arch Linux",
+    ]
   },
-  "currentlyLearning": ["Three.js", "Creative Coding"],
-  "spokenLanguages": ["French (Native)", "English (Professional Proficiency)"],
+  "ask_me_about": [
+    "Web Development",
+    "Frontend Frameworks",
+    "UI/UX Design",
+    "Creative Coding"
+    "Linux & Open Source",
+    "Tech Trends",
+  ],
+  "currently_learning": [
+    "node.js",
+    "Creative Coding"
+  ],
+  "spoken_languages": [
+    "French (Native)",
+    "English (Professional Proficiency)"
+  ],
   "contact": {
     "email": "souleymanesydeveloppers@gmail.com",
-    "linkedin": "https://www.linkedin.com/in/souleymane-sy-a40ba9357"
-    "X/twitter": "https://twitter.com/souleymanesy43",
-    "codepen": "https://codepen.io/souleymanesy7"
+    "linkedin": "https://www.linkedin.com/in/souleymane-sy-a40ba9357",
+    "twitter": "https://twitter.com/souleymanesy43",
   },
-  "hobbies": ["Gaming", "Movies"]
+  "hobbies": [
+    "Movies",
+    "Gaming"
+  ]
 }
 ```
 
