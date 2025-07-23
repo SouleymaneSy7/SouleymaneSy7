@@ -89,7 +89,7 @@
 
 <!-- Section 4: Activity Graphics -->
 
-<h2>🚣🏽‍♂️ Activity Graphics</h2>
+<h2>🚣🏽‍♂️ Activity Graphics (This Month) </h2>
 
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
@@ -210,7 +210,7 @@ Shell                    1 repo              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com/?user=SouleymaneSy7&theme=nord&hide_border=true&border_radius=5" alt="My Github Streak Stats" /></a>
   <a href="https://github.com/ryo-ma/github-profile-trophy" >
-    <img src="https://github-profile-trophy.vercel.app/?username=souleymanesy7&theme=nord&margin-w=3&row=1&column=4" alt="My Github Trophies" /></a>
+    <img src="https://github-profile-trophy.vercel.app/?username=souleymanesy7&theme=nord&margin-w=3&row=1&column=6%22%20alt=%22My%20Github%20Trophies" /></a>
 </p>
 
 <!-- Section 7: Top Languages and Dev Quotes -->
