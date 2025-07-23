@@ -89,7 +89,7 @@
 
 <!-- Section 4: Activity Graphics -->
 
-<h2>🚣🏽‍♂️ Activity Graphics (This Month) </h2>
+<h2>🚣🏽‍♂️ Activities Graphs (This Month) </h2>
 
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
@@ -205,12 +205,16 @@ Shell                    1 repo              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <h3>📉 Stats, Streaks and Trophies</h3>
 
 <p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" >
+    <img src="https://github-profile-trophy.vercel.app/?username=souleymanesy7&theme=nord&margin-w=6&margin-h=6&row=2&column=3%22%20alt=%22My%20Github%20Trophies" /></a>
+</p>
+<p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=souleymanesy7&theme=nord&hide_border=true&show_icons=true&hide=prs" alt="My Github Stats" /></a>
+</p>
+<p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=SouleymaneSy7&theme=nord&hide_border=true&border_radius=5" alt="My Github Streak Stats" /></a>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" >
-    <img src="https://github-profile-trophy.vercel.app/?username=souleymanesy7&theme=nord&margin-w=3&row=1&column=6%22%20alt=%22My%20Github%20Trophies" /></a>
+    <img src="https://streak-stats.demolab.com/?user=souleymanesy7&theme=nord&hide_border=true&border_radius=5" alt="My Github Streak Stats" /></a>
 </p>
 
 <!-- Section 7: Top Languages and Dev Quotes -->
