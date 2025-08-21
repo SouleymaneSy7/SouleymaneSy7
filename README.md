@@ -1,11 +1,8 @@
-<!-- Section 1: Customs Banner -->
+<!-- Section 1: Custom Banner -->
 
-<!-- <p align="center">
-  <a href="https://github.com/SouleymaneSy7/">
-    <img src="./assets/my-github-banner.png" /></a>
-</p> -->
-
-<a href="https://gitroll.io/profile/uvqwwvT5iUEaaPhkoTAZ5RsU2psV2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uvqwwvT5iUEaaPhkoTAZ5RsU2psV2?theme=nord" alt="GitRoll Profile Badge"/></a>
+<p align="center">
+    <img src="./assets/my-github-banner.png" />
+</p>
 
 <!--  Section 2: Social Badges Icons -->
 
@@ -127,19 +124,19 @@ fstab           15 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-297.0%20thousand%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My GitHub Data**
 
-> 📦 256.2 kB Used in GitHub's Storage 
- > 
+> 📦 256.2 kB Used in GitHub's Storage
+ >
 > 🏆 1,306 Contributions in the Year 2025
- > 
+ >
 > 💼 Opted to Hire
- > 
-> 📜 88 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
-**I'm a Night 🦉** 
+ >
+> 📜 88 Public Repositories
+ >
+> 🔑 0 Private Repositories
+ >
+**I'm a Night 🦉**
 
 ```text
 🌞 Morning                200 commits         ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.51 % 
@@ -147,7 +144,8 @@ fstab           15 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 🌃 Evening                706 commits         ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   33.56 % 
 🌙 Night                  458 commits         ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   21.77 % 
 ```
-📅 **I'm Most Productive on Wednesday** 
+
+📅 **I'm Most Productive on Wednesday**
 
 ```text
 Monday                   318 commits         ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.11 % 
@@ -159,8 +157,7 @@ Saturday                 247 commits         ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀�
 Sunday                   142 commits         ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.75 % 
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 🕑︎ Time Zone: Africa/Conakry
@@ -178,7 +175,7 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 ```
 
-**I Mostly Code in SCSS** 
+**I Mostly Code in SCSS**
 
 ```text
 SCSS                     35 repos            ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   44.30 % 
@@ -187,9 +184,6 @@ Vue                      10 repos            ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀�
 JavaScript               2 repos             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.53 % 
 Lua                      1 repo              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.27 % 
 ```
-
-
-
 
 <!--END_SECTION:wakatime-readme-stats-->
 
