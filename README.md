@@ -97,7 +97,7 @@
 <!--START_SECTION:waka-->
 
 ```typescript
-From: 07 August 2025 - To: 05 September 2025
+From: 08 August 2025 - To: 06 September 2025
 
 Total Time: 2 hrs 43 mins
 
