@@ -97,7 +97,7 @@
 <!--START_SECTION:waka-->
 
 ```typescript
-From: 24 November 2025 - To: 23 December 2025
+From: 25 November 2025 - To: 24 December 2025
 
 Total Time: 3 mins
 
