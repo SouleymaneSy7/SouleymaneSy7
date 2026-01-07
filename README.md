@@ -97,7 +97,7 @@
 <!--START_SECTION:waka-->
 
 ```typescript
-From: 06 December 2025 - To: 04 January 2026
+From: 07 December 2025 - To: 05 January 2026
 
 Total Time: 2 hrs 36 mins
 
