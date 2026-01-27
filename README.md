@@ -73,14 +73,10 @@
     "English (Professional Proficiency)"
   ],
   "contact": {
-    "email": "souleymanesydeveloppers@gmail.com",
-    "linkedin": "https://www.linkedin.com/in/souleymane-sy-a40ba9357",
+    "email": "souleymanesycodes@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/souleymanesy7",
     "twitter": "https://twitter.com/souleymanesy43",
-  },
-  "hobbies": [
-    "Movies",
-    "Gaming"
-  ]
+  }
 }
 ```
 
@@ -116,19 +112,19 @@ Other      9 mins          ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-310.41%20thousand%20lines%20of%20code-blue?style=flat)
 
-**🐱 My GitHub Data** 
+**🐱 My GitHub Data**
 
-> 📦 258.2 kB Used in GitHub's Storage 
- > 
+> 📦 258.2 kB Used in GitHub's Storage
+ >
 > 🏆 56 Contributions in the Year 2026
- > 
+ >
 > 💼 Opted to Hire
- > 
-> 📜 89 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
-**I'm a Night 🦉** 
+ >
+> 📜 89 Public Repositories
+ >
+> 🔑 0 Private Repositories
+ >
+**I'm a Night 🦉**
 
 ```text
 🌞 Morning                210 commits         ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.89 % 
@@ -136,7 +132,8 @@ Other      9 mins          ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 🌃 Evening                804 commits         ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   30.23 % 
 🌙 Night                  825 commits         ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   31.02 % 
 ```
-📅 **I'm Most Productive on Wednesday** 
+
+📅 **I'm Most Productive on Wednesday**
 
 ```text
 Monday                   395 commits         ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.85 % 
@@ -148,8 +145,7 @@ Saturday                 291 commits         ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀�
 Sunday                   190 commits         ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.14 % 
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 🕑︎ Time Zone: Africa/Conakry
@@ -167,7 +163,7 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 ```
 
-**I Mostly Code in SCSS** 
+**I Mostly Code in SCSS**
 
 ```text
 SCSS                     35 repos            ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   43.75 % 
@@ -176,9 +172,6 @@ Vue                      10 repos            ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀�
 JavaScript               2 repos             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.50 % 
 Lua                      1 repo              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.25 % 
 ```
-
-
-
 
 <!--END_SECTION:wakatime-readme-stats-->
 
