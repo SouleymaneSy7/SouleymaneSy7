@@ -429,6 +429,10 @@ Lua                      1 repo              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
   <img src="https://streak-stats.demolab.com/?user=souleymanesy7&theme=nord&hide_border=true&border_radius=5" alt="GitHub Streak" />
 </p>
 
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
+![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
+
 ---
 
 <!-- Section 12: Recent Activity -->
