@@ -29,7 +29,7 @@
 
 <!-- Section 3: Typing Animation Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0d1118&center=true&vCenter=true&width=400&lines=Self-Taught+Frontend+Developer;React+%7C+Next.js+%7C+TypeScript;89%2B+Projects+Built;Contest+Winner+%F0%9F%8F%86;From+Conakry%2C+Guinea+%F0%9F%87%AC%F0%9F%87%B3;Open+to+Remote+Opportunities!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=88C0D0&center=true&vCenter=true&width=400&lines=Self-Taught+Frontend+Developer;React+%7C+Next.js+%7C+TypeScript;89%2B+Projects+Built;Contest+Winner+%F0%9F%8F%86;From+Conakry%2C+Guinea+%F0%9F%87%AC%F0%9F%87%B3;Open+to+Remote+Opportunities!" alt="Typing SVG" />
 </p>
 
 ---
@@ -42,7 +42,7 @@
 >
 > Building modern web experiences with **React**, **Next.js** & **TypeScript** — proving that geographical and financial limitations don't define talent.
 
-**🏆 Contest Winner** | **💼 Certified Professional** | **📦 87+ Projects** | **🚀 Available for Remote Work**---
+**🏆 Contest Winner** | **💼 Certified Professional** | **📦 89+ Projects** | **🚀 Available for Remote Work**---
 
 <!-- Section 5: Achievements & Highlights -->
 
@@ -205,7 +205,7 @@
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">Fyrre Magazine</h3>
+      <h3 align="center">Fyrre Magazine Website</h3>
       <div align="center">  
         <a href="https://github.com/SouleymaneSy7/fyrre-magazine-website" target="_blank">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=SouleymaneSy7&repo=fyrre-magazine-website&theme=nord&hide_border=true" alt="Fyrre Magazine" />
@@ -431,7 +431,7 @@ Lua                      1 repo              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!-- Section 12: Recent Activity -->
 
 <details>
-<summary>🕓 Recent GitHub Activity</summary>
+<summary><h3>🕓 Recent GitHub Activity</h3></summary>
 <br>
 
 <!--START_SECTION:activity-->
