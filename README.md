@@ -42,7 +42,9 @@
 >
 > Building modern web experiences with **React**, **Next.js** & **TypeScript** — proving that geographical and financial limitations don't define talent.
 
-**🏆 Contest Winner** | **💼 Certified Professional** | **📦 89+ Projects** | **🚀 Available for Remote Work**---
+**🏆 Contest Winner** | **💼 Certified Professional** | **📦 89+ Projects** | **🚀 Available for Remote Work**
+
+---
 
 <!-- Section 5: Achievements & Highlights -->
 
