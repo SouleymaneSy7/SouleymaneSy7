@@ -309,6 +309,15 @@
 
 <!--START_SECTION:waka-->
 
+```typescript
+From: 29 December 2025 - To: 27 January 2026
+
+Total Time: 6 hrs 55 mins
+
+Markdown   6 hrs 39 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀   93.58 %
+Other      11 mins         ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.63 %
+```
+
 <!--END_SECTION:waka-->
 
 ---
