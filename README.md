@@ -100,12 +100,14 @@
       "Git",
       "GitHub",
       "VS Code",
-      "NeoVim",
+      "Neovim",
       "Vim",
+      "LazyVim",
       "Figma",
       "Vercel",
       "Pop!_OS",
-      "Arch Linux"
+      "Arch Linux",
+      "Hyprland"
     ]
   },
   "ask_me_about": [
