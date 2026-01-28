@@ -127,7 +127,7 @@
   ],
   "spoken_languages": ["French (Native)", "English (Professional Proficiency)"],
   "contact": {
-    "email": "souleymanesydeveloppers@gmail.com",
+    "email": "souleymanesycodes@gmail.com",
     "linkedin": "https://www.linkedin.com/in/souleymanesy7",
     "twitter": "https://twitter.com/souleymanesy43",
     "frontend_mentor": "https://www.frontendmentor.io/profile/SouleymaneSy7",
@@ -375,9 +375,11 @@ Other      11 mins         ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <details>
 <summary>📄 Click to expand Recent Github Activity details</summary>
 <br>
+
 <!--START_SECTION:activity-->
 
-  <!--END_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 </details>
 
 ---
