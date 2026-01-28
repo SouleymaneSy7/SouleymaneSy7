@@ -362,13 +362,12 @@
 ### 🕓 Recent GitHub Activity
 
 <details>
-  <summary>📄 Click to expand Recent Github Activity details</summary>
-  <br>
-
+<summary>📄 Click to expand Recent Github Activity details</summary>
+<br>
 <!--START_SECTION:activity-->
 
-<!--END_SECTION:activity-->
-</details>
+  <!--END_SECTION:activity-->
+  </details>
 
 ---
 
