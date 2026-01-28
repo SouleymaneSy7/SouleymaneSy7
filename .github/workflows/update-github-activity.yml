@@ -2,7 +2,7 @@ name: Github Activity Readme Update
 
 on:
   schedule:
-    - cron: "0 5 * * *" # Runs every day at 5:00 am.
+    - cron: "0 */6 * * *" # Every 6 hours
   workflow_dispatch:
 
 jobs:
