@@ -333,8 +333,6 @@
   <img src="./profile/trophy.svg" alt="GitHub Trophies" />
 </p>
 
-![Trophies](./profile/trophy.svg)
-
 ### 📊 Profile Summary Cards
 
 <p align="center">
@@ -364,7 +362,7 @@
 ### 🕓 Recent GitHub Activity
 
 <details>
-  <summary>📄 Click to expand Tech Stack details</summary>
+  <summary>📄 Click to expand Recent Github Activity details</summary>
   <br>
 
 <!--START_SECTION:activity-->
