@@ -1,0 +1,35 @@
+name: GitHub Profile Summary Cards
+
+on:
+  schedule:
+    - cron: "0 */6 * * *" # Every 6 hours
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Generate Profile Summary
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate Summary Cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          AUTOMATIC_RELOAD: true
+
+      - name: Commit and Push
+        run: |
+          git config --local user.email "souleymanesydeveloppers@gmail.com"
+          git config --local user.name "Souleymane Sy"
+          git add -A
+          git diff --quiet && git diff --staged --quiet || git commit -m "docs: update profile summary cards 🎨"
+          git push
