@@ -429,36 +429,6 @@ Lua                      1 repo              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
   <img src="https://streak-stats.demolab.com/?user=souleymanesy7&theme=nord&hide_border=true&border_radius=5" alt="GitHub Streak" />
 </p>
 
-## 📈 GitHub Statistics
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=souleymanesy7&theme=nord&margin-w=6&margin-h=6&row=2&column=3&no-frame=true&no-bg=true" alt="GitHub Trophies" />
-</p>
-
-### 📊 Profile Summary Cards
-
-<p align="center">
-  <img src="./profile-summary-card-output/0-profile-details.svg" alt="Profile Details" />
-  <img src="./profile-summary-card-output/1-repos-per-language.svg" alt="Repos Per Language" />
-  <img src="./profile-summary-card-output/2-most-commit-language.svg" alt="Most Commit Language" />
-  <img src="./profile-summary-card-output/3-stats.svg" alt="Stats" />
-</p>
-
-### ⏰ Productive Time & Language Stats
-
-<p align="center">
-  <img src="./profile-summary-card-output/4-productive-time.svg" alt="Productive Time" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SouleymaneSy7&theme=nord&card_width=445&langs_count=8&hide_border=true&layout=compact" alt="Top Languages" />
-</p>
-
-### 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=souleymanesy7&theme=nord&hide_border=true&border_radius=5" alt="GitHub Streak" />
-</p>
-
 ---
 
 <!-- Section 12: Recent Activity -->
