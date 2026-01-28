@@ -152,7 +152,7 @@
 ## 🛠️ Tech Stack
 
 <details>
-<summary>Click to expand Tech Stack details</summary>
+<summary>📄 Click to expand Tech Stack details</summary>
 <br>
 
 ### Frontend Frameworks & Libraries
@@ -210,7 +210,7 @@
       <h3 align="center">Fyrre Magazine Website</h3>
       <div align="center">  
         <a href="https://github.com/SouleymaneSy7/fyrre-magazine-website" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=SouleymaneSy7&repo=fyrre-magazine-website&theme=nord&hide_border=true" alt="Fyrre Magazine" />
+          <img src="./profile/pin-fyrre-magazine-website.svg" alt="Fyrre Magazine" />
         </a>
         <br>
         <p>
@@ -229,7 +229,7 @@
       <h3 align="center">Conakry Tourism Website 🏆</h3>
       <div align="center">  
         <a href="https://github.com/SouleymaneSy7/conakry-website-challenge" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=SouleymaneSy7&repo=conakry-website-challenge&theme=nord&hide_border=true" alt="Conakry Tourism" />
+          <img src="./profile/pin-conakry-website-challenge.svg" alt="Conakry Tourism" />
         </a>
         <br>
         <p>
@@ -250,7 +250,7 @@
       <h3 align="center">Terminal Portfolio Website</h3>
       <div align="center">  
         <a href="https://github.com/SouleymaneSy7/terminal-portfolio-website" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=SouleymaneSy7&repo=terminal-portfolio-website&theme=nord&hide_border=true" alt="Terminal Portfolio" />
+          <img src="./profile/pin-terminal-portfolio-website.svg" alt="Terminal Portfolio" />
         </a>
         <br>
         <p>
@@ -269,7 +269,7 @@
       <h3 align="center">Dictionary Web App</h3>
       <div align="center">  
         <a href="https://github.com/SouleymaneSy7/dictionary-web-app" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=SouleymaneSy7&repo=dictionary-web-app&theme=nord&hide_border=true" alt="Dictionary App" />
+          <img src="./profile/pin-dictionary-web-app.svg" />
         </a>
         <br>
         <p>
@@ -309,15 +309,6 @@
 
 <!--START_SECTION:waka-->
 
-```typescript
-From: 29 December 2025 - To: 27 January 2026
-
-Total Time: 6 hrs 55 mins
-
-Markdown   6 hrs 39 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀   93.58 %
-Other      11 mins         ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.63 %
-```
-
 <!--END_SECTION:waka-->
 
 ---
@@ -327,71 +318,6 @@ Other      11 mins         ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ## 📊 Detailed Coding Statistics
 
 <!--START_SECTION:wakatime-readme-stats-->
-
-![Code Time](http://img.shields.io/badge/Code%20Time-798%20hrs%2018%20mins-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-310.41%20thousand%20lines%20of%20code-blue?style=flat)
-
-**🐱 My GitHub Data**
-
-> 📦 258.3 kB Used in GitHub's Storage
->
-> 🏆 68 Contributions in the Year 2026
->
-> 💼 Opted to Hire
->
-> 📜 89 Public Repositories
->
-> 🔑 0 Private Repositories
->
-> **I'm a Night 🦉**
-
-```text
-🌞 Morning                210 commits         ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.86 %
-🌆 Daytime                821 commits         ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   30.73 %
-🌃 Evening                804 commits         ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   30.09 %
-🌙 Night                  837 commits         ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   31.32 %
-```
-
-📅 **I'm Most Productive on Wednesday**
-
-```text
-Monday                   396 commits         ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.82 %
-Tuesday                  465 commits         ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   17.40 %
-Wednesday                544 commits         ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   20.36 %
-Thursday                 388 commits         ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.52 %
-Friday                   398 commits         ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.90 %
-Saturday                 291 commits         ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.89 %
-Sunday                   190 commits         ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.11 %
-```
-
-📊 **This Week I Spent My Time On**
-
-```text
-🕑︎ Time Zone: Africa/Conakry
-
-💬 Programming Languages:
-Markdown                 11 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 %
-
-🔥 Editors:
-VS Code                  11 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 %
-
-🐱‍💻 Projects:
-SouleymaneSy7            11 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 %
-
-💻 Operating System:
-Windows                  11 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 %
-```
-
-**I Mostly Code in SCSS**
-
-```text
-SCSS                     35 repos            ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   43.75 %
-TypeScript               17 repos            ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   21.25 %
-Vue                      10 repos            ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.50 %
-JavaScript               2 repos             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.50 %
-Lua                      1 repo              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.25 %
-```
 
 <!--END_SECTION:wakatime-readme-stats-->
 
@@ -404,8 +330,10 @@ Lua                      1 repo              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=souleymanesy7&theme=nord&margin-w=6&margin-h=6&row=2&column=3&no-frame=true&no-bg=true" alt="GitHub Trophies" />
+  <img src="./profile/trophy.svg" alt="GitHub Trophies" />
 </p>
+
+![Trophies](./profile/trophy.svg)
 
 ### 📊 Profile Summary Cards
 
@@ -413,41 +341,36 @@ Lua                      1 repo              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
   <img src="./profile-summary-card-output/nord_dark/0-profile-details.svg" alt="Profile Details" />
   <img src="./profile-summary-card-output/nord_dark/1-repos-per-language.svg" alt="Repos Per Language" />
   <img src="./profile-summary-card-output/nord_dark/2-most-commit-language.svg" alt="Most Commit Language" />
-  <img src="./profile-summary-card-output/nord_dark/3-stats.svg" alt="Stats" />
+  <img src="./profile/stats.svg" alt="Stats" />
 </p>
 
 ### ⏰ Productive Time & Language Stats
 
 <p align="center">
   <img src="./profile-summary-card-output/nord_dark/4-productive-time.svg" alt="Productive Time" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SouleymaneSy7&theme=nord&card_width=445&langs_count=8&hide_border=true&layout=compact" alt="Top Languages" />
+  <img src="./profile/top-langs.svg" alt="Top Languages" />
 </p>
 
 ### 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=souleymanesy7&theme=nord&hide_border=true&border_radius=5" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=SouleymaneSy7&theme=nord&hide_border=true&border_radius=6" alt="GitHub Streak" /></a>
 </p>
-
-![Stats](./profile/stats.svg)
-![Top Languages](./profile/top-langs.svg)
-![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
-![Trophies](./profile/trophy.svg)
 
 ---
 
 <!-- Section 12: Recent Activity -->
 
+### 🕓 Recent GitHub Activity
+
 <details>
-<summary><h3>🕓 Recent GitHub Activity</h3></summary>
-<br>
+  <summary>📄 Click to expand Tech Stack details</summary>
+  <br>
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#250](https://github.com/donnemartin/system-design-primer/issues/250#issuecomment-3039424158) in [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)
-2. 🗣 Commented on [#250](https://github.com/donnemartin/system-design-primer/issues/250#issuecomment-3014064261) in [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)
-   <!--END_SECTION:activity-->
-   </details>
+<!--END_SECTION:activity-->
+</details>
 
 ---
 
