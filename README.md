@@ -149,8 +149,10 @@
 
 <!-- Section 7: Tech Stack Visual -->
 
+## 🛠️ Tech Stack
+
 <details>
-<summary>🛠️ Tech Stack</summary>
+<summary>Click to expand Tech Stack details</summary>
 <br>
 
 ### Frontend Frameworks & Libraries
