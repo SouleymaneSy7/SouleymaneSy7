@@ -410,16 +410,16 @@ Lua                      1 repo              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ### 📊 Profile Summary Cards
 
 <p align="center">
-  <img src="./profile-summary-card-output/0-profile-details.svg" alt="Profile Details" />
-  <img src="./profile-summary-card-output/1-repos-per-language.svg" alt="Repos Per Language" />
-  <img src="./profile-summary-card-output/2-most-commit-language.svg" alt="Most Commit Language" />
-  <img src="./profile-summary-card-output/3-stats.svg" alt="Stats" />
+  <img src="./profile-summary-card-output/nord_dark/0-profile-details.svg" alt="Profile Details" />
+  <img src="./profile-summary-card-output/nord_dark/1-repos-per-language.svg" alt="Repos Per Language" />
+  <img src="./profile-summary-card-output/nord_dark/2-most-commit-language.svg" alt="Most Commit Language" />
+  <img src="./profile-summary-card-output/nord_dark/3-stats.svg" alt="Stats" />
 </p>
 
 ### ⏰ Productive Time & Language Stats
 
 <p align="center">
-  <img src="./profile-summary-card-output/4-productive-time.svg" alt="Productive Time" />
+  <img src="./profile-summary-card-output/nord_dark/4-productive-time.svg" alt="Productive Time" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SouleymaneSy7&theme=nord&card_width=445&langs_count=8&hide_border=true&layout=compact" alt="Top Languages" />
 </p>
 
