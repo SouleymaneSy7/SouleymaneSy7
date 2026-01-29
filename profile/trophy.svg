@@ -24,7 +24,7 @@
             height="109"
             stroke="#e1e4e8"
             fill="#2E3440"
-            stroke-opacity="1"
+            stroke-opacity="0"
             fill-opacity="1"
           />
           
@@ -104,7 +104,7 @@
             height="109"
             stroke="#e1e4e8"
             fill="#2E3440"
-            stroke-opacity="1"
+            stroke-opacity="0"
             fill-opacity="1"
           />
           
@@ -223,7 +223,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
             height="109"
             stroke="#e1e4e8"
             fill="#2E3440"
-            stroke-opacity="1"
+            stroke-opacity="0"
             fill-opacity="1"
           />
           
@@ -280,7 +280,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
         width: 0px;
       }
       to {
-        width: 68.08px;
+        width: 68.24px;
       }
     }
     #Commits-rank-progress{
@@ -324,7 +324,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
             height="109"
             stroke="#e1e4e8"
             fill="#2E3440"
-            stroke-opacity="1"
+            stroke-opacity="0"
             fill-opacity="1"
           />
           
@@ -425,7 +425,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
             height="109"
             stroke="#e1e4e8"
             fill="#2E3440"
-            stroke-opacity="1"
+            stroke-opacity="0"
             fill-opacity="1"
           />
           
@@ -535,7 +535,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
             height="109"
             stroke="#e1e4e8"
             fill="#2E3440"
-            stroke-opacity="1"
+            stroke-opacity="0"
             fill-opacity="1"
           />
           
@@ -636,7 +636,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
             height="109"
             stroke="#e1e4e8"
             fill="#2E3440"
-            stroke-opacity="1"
+            stroke-opacity="0"
             fill-opacity="1"
           />
           
@@ -716,7 +716,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
             height="109"
             stroke="#e1e4e8"
             fill="#2E3440"
-            stroke-opacity="1"
+            stroke-opacity="0"
             fill-opacity="1"
           />
           
@@ -796,7 +796,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
             height="109"
             stroke="#e1e4e8"
             fill="#2E3440"
-            stroke-opacity="1"
+            stroke-opacity="0"
             fill-opacity="1"
           />
           
