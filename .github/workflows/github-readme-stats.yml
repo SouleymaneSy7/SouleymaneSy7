@@ -105,6 +105,15 @@ jobs:
           curl -o profile/activity-graph.svg \
           "https://github-readme-activity-graph.vercel.app/graph?username=${{ github.repository_owner }}&theme=nord&custom_title=Souleymane%27s%20Contribution%20Graph&hide_border=true&radius=5"
 
+      # Verify if the activity graph files is created
+      - name: Verify Activity Graph
+        run: |
+          if [ ! -s profile/activity-graph.svg ]; then
+            echo "Error: Activity Graph file is empty or missing"
+            exit 1
+          fi
+          echo "Activity Graph downloaded successfully"
+
       # ============================================
       # DEV QUOTE
       # ============================================
@@ -113,6 +122,15 @@ jobs:
         run: |
           curl -o profile/dev-quote.svg \
           "https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord&border=true"
+
+      # Verify if the dev quote files is created
+      - name: Verify Dev Quote
+        run: |
+          if [ ! -s profile/dev-quote.svg ]; then
+            echo "Error: Dev Quote file is empty or missing"
+            exit 1
+          fi
+          echo "Dev Quote downloaded successfully"
 
       # ============================================
       # COMMIT ALL FILES
