@@ -2,7 +2,7 @@ name: GitHub Profile Summary Cards
 
 on:
   schedule:
-    - cron: "0 */6 * * *" # Every 6 hours
+    - cron: "30 */6 * * *"
   workflow_dispatch:
   push:
     branches:
