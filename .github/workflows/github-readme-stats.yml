@@ -1,4 +1,4 @@
-name: Update README cards
+name: Update README Cards
 
 on:
   schedule:
@@ -13,36 +13,40 @@ jobs:
       contents: write
 
     steps:
-      - uses: actions/checkout@v6
+      - uses: actions/checkout@v4
 
-      # Github Stats Card
-      - name: Generate stats card
+      # ============================================
+      # GITHUB README STATS CARDS
+      # ============================================
+
+      - name: Generate Stats Card
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&theme=nord
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=nord&hide_border=true&include_all_commits=true&count_private=true
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      # Github Top Languages
-      - name: Generate top languages card
+      - name: Generate Top Languages Card
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&theme=nord&card_width=500&langs_count=5&hide_border=true
+          options: username=${{ github.repository_owner }}&theme=nord&card_width=500&langs_count=8&hide_border=true&layout=compact
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      # Github Trophy
-      - name: Generate trophy card
+      - name: Generate Trophy Card
         uses: soulteary/github-profile-trophy-action@v1.0.0
         with:
-          options: "username=${{ github.repository_owner }}&theme=nord&margin-w=6&margin-h=6&row=2&column=3"
+          options: "username=${{ github.repository_owner }}&theme=nord&margin-w=6&margin-h=6&row=2&column=3&no-frame=true"
           path: profile/trophy.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      # Pin Card
-      - name: Generate pin card - fyrre-magazine-website
+      # ============================================
+      # PIN CARDS FOR FEATURED PROJECTS
+      # ============================================
+
+      - name: Generate Pin - Fyrre Magazine
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
@@ -50,7 +54,7 @@ jobs:
           path: profile/pin-fyrre-magazine-website.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate pin card - terminal-portfolio-website
+      - name: Generate Pin - Terminal Portfolio
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
@@ -58,7 +62,7 @@ jobs:
           path: profile/pin-terminal-portfolio-website.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate pin card - conakry-website-challenge
+      - name: Generate Pin - Conakry Website Challenge
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
@@ -66,7 +70,7 @@ jobs:
           path: profile/pin-conakry-website-challenge.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate pin card - dictionary-web-app
+      - name: Generate Pin - Dictionary App
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
@@ -74,10 +78,50 @@ jobs:
           path: profile/pin-dictionary-web-app.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Commit cards
+      # ============================================
+      # STREAK STATS (CURL - LOCAL STORAGE) 🔥
+      # ============================================
+
+      - name: Download Streak Stats SVG
+        run: |
+          curl -o profile/streak-stats.svg \
+          "https://streak-stats.demolab.com?user=${{ github.repository_owner }}&theme=nord&hide_border=true&border_radius=6&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&fire=DD2727&ring=5DBCD2&currStreakLabel=D8DEE9"
+
+      # Verify if the streak stats files is created
+      - name: Verify Streak Stats
+        run: |
+          if [ ! -s profile/streak-stats.svg ]; then
+            echo "Error: Streak stats file is empty or missing"
+            exit 1
+          fi
+          echo "Streak stats downloaded successfully"
+
+      # ============================================
+      # ACTIVITY GRAPH
+      # ============================================
+
+      - name: Download Activity Graph
+        run: |
+          curl -o profile/activity-graph.svg \
+          "https://github-readme-activity-graph.vercel.app/graph?username=${{ github.repository_owner }}&theme=nord&custom_title=Souleymane%27s%20Contribution%20Graph&hide_border=true&radius=5"
+
+      # ============================================
+      # DEV QUOTE
+      # ============================================
+
+      - name: Download Dev Quote
+        run: |
+          curl -o profile/dev-quote.svg \
+          "https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord&border=true"
+
+      # ============================================
+      # COMMIT ALL FILES
+      # ============================================
+
+      - name: Commit All Cards
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add profile/*.svg
-          git commit -m "docs: update readme stats cards" || exit 0
+          git diff --quiet && git diff --staged --quiet || git commit -m "docs: update readme stats cards 📊 [skip ci]"
           git push
