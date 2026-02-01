@@ -312,7 +312,7 @@
 <!--START_SECTION:waka-->
 
 ```typescript
-From: 01 January 2026 - To: 30 January 2026
+From: 02 January 2026 - To: 31 January 2026
 
 Total Time: 14 hrs 16 mins
 
