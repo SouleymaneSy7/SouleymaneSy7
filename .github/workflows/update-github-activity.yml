@@ -1,9 +1,9 @@
 name: Github Activity Readme Update
 
 on:
-  workflow_dispatch:
   schedule:
     - cron: "0 8,20 * * *"
+  workflow_dispatch:
 
 jobs:
   build:
