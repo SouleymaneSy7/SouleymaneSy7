@@ -465,8 +465,8 @@ Lua                      1 repo              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#404](https://github.com/ryo-ma/github-profile-trophy/issues/404#issuecomment-3813450754) in [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy)
-2. 🗣 Commented on [#412](https://github.com/ryo-ma/github-profile-trophy/pull/412#issuecomment-3813442863) in [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy)
+1. 🗣 Commented on [#412](https://github.com/ryo-ma/github-profile-trophy/pull/412#issuecomment-3847874818) in [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy)
+2. 🗣 Commented on [#404](https://github.com/ryo-ma/github-profile-trophy/issues/404#issuecomment-3813450754) in [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy)
 <!--END_SECTION:activity-->
 
 </details>
