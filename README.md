@@ -38,14 +38,14 @@
 
 ## 🌍 About Me
 
-> Coding from Conakry, Guinea — where every commit is a victory over circumstance.
-
+> **Coding from Conakry, Guinea** — where every commit is a victory over circumstance.
+>
 > **Self-taught Frontend Developer** mastering **React, Next.js & TypeScript** in conditions most developers can't imagine: unstable internet that drops during critical learning moments, power outages that erase hours of unsaved progress, and financial barriers that turn every documentation page, every tutorial, every tool into a hard-won treasure. Since 2022, I've transformed these obstacles into my **competitive edge**.
-
+>
 > I don't just write code — **I write proof that geography and wealth don't determine who gets to build the future.** That the next generation of world-class developers won't come from Silicon Valley alone, but from those who refuse to let circumstance write their story. From those who code not because it's convenient, but because they **believe they deserve a seat at the table**.
-
+>
 > **While others debug in comfort, I debug in the dark — literally.** And that makes me **hungrier, sharper and unstoppable**.
-
+>
 > **Building the future, one stubborn commit at a time.**
 
 **🏆 Contest Winner** | **💼 Certified Professional** | **📦 89+ Projects** | **🚀 Available for Remote Work**
