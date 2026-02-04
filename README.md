@@ -432,10 +432,10 @@ Lua                      1 repo              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ### 📊 Profile Summary Cards
 
 <p align="center">
+  <img src="./profile/stats.svg" alt="Stats" />
   <img src="./profile-summary-card-output/nord_dark/0-profile-details.svg" alt="Profile Details" />
   <img src="./profile-summary-card-output/nord_dark/1-repos-per-language.svg" alt="Repos Per Language" />
   <img src="./profile-summary-card-output/nord_dark/2-most-commit-language.svg" alt="Most Commit Language" />
-  <img src="./profile/stats.svg" alt="Stats" />
 </p>
 
 ### ⏰ Productive Time & Language Stats
@@ -463,6 +463,8 @@ Lua                      1 repo              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--START_SECTION:activity-->
 
+1. 🗣 Commented on [#250](https://github.com/donnemartin/system-design-primer/issues/250#issuecomment-3039424158) in [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)
+2. 🗣 Commented on [#250](https://github.com/donnemartin/system-design-primer/issues/250#issuecomment-3014064261) in [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)
 <!--END_SECTION:activity-->
 
 </details>
