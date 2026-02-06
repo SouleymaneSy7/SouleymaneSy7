@@ -66,8 +66,8 @@
     
         </style>
         <div class="container">
-          <h3>The trouble with programmers is that you can never tell what a programmer is doing until it’s too late.</h3>
-          <p>- Seymour Cray</p>
+          <h3>The cleaner and nicer the program, the faster it's going to run. And if it doesn't, it'll be easy to make it fast.</h3>
+          <p>- Joshua Bloch</p>
         </div>
       </div>
     </foreignObject>
