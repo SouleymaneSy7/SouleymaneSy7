@@ -66,8 +66,8 @@
     
         </style>
         <div class="container">
-          <h3>The path to the CEO's office should not be through the CFO's office, and it should not be through the marketing department. It needs to be through engineering and design.</h3>
-          <p>- Elon Musk</p>
+          <h3>When you find you have to add a feature to a program, and the program's code is not structured in a convenient way to add the feature, first refactor the program to make it easy to add the feature, then add the feature.</h3>
+          <p>- Kent Beck</p>
         </div>
       </div>
     </foreignObject>
