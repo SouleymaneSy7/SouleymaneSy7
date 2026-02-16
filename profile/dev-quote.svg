@@ -66,8 +66,8 @@
     
         </style>
         <div class="container">
-          <h3>Should array indices start at 0 or 1? My compromise of 0.5 was rejected without, I thought, proper consideration.</h3>
-          <p>- Stan Kelly-Bootle</p>
+          <h3>When you feel the need to write a comment, first try to refactor the code so that any comment becomes superfluous.</h3>
+          <p>- Kent Beck</p>
         </div>
       </div>
     </foreignObject>
