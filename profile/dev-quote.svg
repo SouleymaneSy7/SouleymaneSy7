@@ -66,8 +66,8 @@
     
         </style>
         <div class="container">
-          <h3>When you feel the need to write a comment, first try to refactor the code so that any comment becomes superfluous.</h3>
-          <p>- Kent Beck</p>
+          <h3>The entire history of software engineering is that of the rise in levels of abstraction.</h3>
+          <p>- Grady Booch</p>
         </div>
       </div>
     </foreignObject>
