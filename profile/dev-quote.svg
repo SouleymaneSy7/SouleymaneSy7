@@ -66,8 +66,8 @@
     
         </style>
         <div class="container">
-          <h3>Premature abstraction is as bad as premature optimization.</h3>
-          <p>- Luciano Ramalho</p>
+          <h3>Fancy algorithms are slow when n is small, and n is usually small.</h3>
+          <p>- Rob Pike</p>
         </div>
       </div>
     </foreignObject>
