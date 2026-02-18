@@ -66,8 +66,8 @@
     
         </style>
         <div class="container">
-          <h3>A program that produces incorrect results twice as fast is infinitely slower.</h3>
-          <p>- John Ousterhout</p>
+          <h3>Hofstadter's Law: It always takes longer than you expect, even when you take into account Hofstadter's Law.</h3>
+          <p>- P. J. Plauger</p>
         </div>
       </div>
     </foreignObject>
