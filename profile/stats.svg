@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Souleymane Sy's GitHub Stats, Rank: B</title>
-        <desc id="descId">Total Stars Earned: 107, Total Commits  : 2824, Total PRs: 0, Total Issues: 3, Contributed to (last year): 2</desc>
+        <desc id="descId">Total Stars Earned: 107, Total Commits  : 2825, Total PRs: 0, Total Issues: 3, Contributed to (last year): 2</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 136.16993407848614;
+        stroke-dashoffset: 136.16451642415356;
       }
     }
   
