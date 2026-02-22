@@ -66,8 +66,9 @@
     
         </style>
         <div class="container">
-          <h3>Ed Adams of IBM found that 80% of the reliability problems are caused by only 2% of the defects.</h3>
-          <p>- Daniel T. Barry</p>
+          <h3>I think the best way to make JavaScript better would be to
+make it smaller. If we could just get it down to what it does really well and remove the features that add little or no value, it’s actually a better language.</h3>
+          <p>- Douglas Crockford</p>
         </div>
       </div>
     </foreignObject>
