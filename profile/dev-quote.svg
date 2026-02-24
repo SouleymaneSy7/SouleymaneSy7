@@ -66,8 +66,8 @@
     
         </style>
         <div class="container">
-          <h3>One of the greatest joys in computer programming is discovering a new, faster, more efficient algorithm for doing something — particularly if a lot of well-respected people have come up with worse solutions.</h3>
-          <p>- Danny Hillis</p>
+          <h3>Documenting is very, very hard; it’s time-consuming. To do it right, you’ve got to do it like programming. You’ve got to deconstruct it, put it together in nice ways, rewrite it when it’s wrong. People don’t do that.</h3>
+          <p>- Ken Thompson</p>
         </div>
       </div>
     </foreignObject>
