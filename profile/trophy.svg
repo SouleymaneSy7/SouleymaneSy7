@@ -390,7 +390,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
         width: 0px;
       }
       to {
-        width: 79.76px;
+        width: 79.84px;
       }
     }
     #Commits-rank-progress{
