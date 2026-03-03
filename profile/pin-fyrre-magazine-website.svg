@@ -100,7 +100,7 @@
     
 
     <text class="description" x="25" y="-5">
-      <tspan dy="1.2em" x="25">Fyrre - A modern digital magazine, blog and podcast</tspan><tspan dy="1.2em" x="25">platform built with Next.js, React, MDX, Typescript and</tspan><tspan dy="1.2em" x="25">TailwindCSS. Delivering an immersive reading experience...</tspan>
+      <tspan dy="1.2em" x="25">A fully shipped magazine platform built with Next.js 16 App</tspan><tspan dy="1.2em" x="25">Router, MDX, TypeScript &#38; Tailwind CSS 4 &#8212;</tspan><tspan dy="1.2em" x="25">featuring a complete newsletter pipeline (Resend +...</tspan>
     </text>
 
     <g transform="translate(30, 75)">
