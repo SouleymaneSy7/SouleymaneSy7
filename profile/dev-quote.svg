@@ -66,8 +66,8 @@
     
         </style>
         <div class="container">
-          <h3>The act of describing a program in unambiguous detail and the act of programming are one and the same.</h3>
-          <p>- Kevlin Henney</p>
+          <h3>When there is no type hierarchy you don’t have to manage the type hierarchy.</h3>
+          <p>- Rob Pike</p>
         </div>
       </div>
     </foreignObject>
