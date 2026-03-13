@@ -66,8 +66,8 @@
     
         </style>
         <div class="container">
-          <h3>Size almost always involves complexity, and complexity confuses programmers. Confused programmers, in turn, introduce mistakes (bugs) into programs.</h3>
-          <p>- Marijn Haverbeke</p>
+          <h3>When debugging, novices insert corrective code; experts remove defective code.</h3>
+          <p>- Richard E. Pattis</p>
         </div>
       </div>
     </foreignObject>
