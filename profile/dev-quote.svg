@@ -66,8 +66,8 @@
     
         </style>
         <div class="container">
-          <h3>No code is faster than no code.</h3>
-          <p>- Kevlin Henney</p>
+          <h3>Fancy algorithms are slow when n is small, and n is usually small.</h3>
+          <p>- Rob Pike</p>
         </div>
       </div>
     </foreignObject>
