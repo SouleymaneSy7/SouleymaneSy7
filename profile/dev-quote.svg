@@ -66,8 +66,8 @@
     
         </style>
         <div class="container">
-          <h3>A beautiful program is like a beautiful theorem: It does the job elegantly.</h3>
-          <p>- Butler Lampson</p>
+          <h3>Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.</h3>
+          <p>- Brian Kernighan</p>
         </div>
       </div>
     </foreignObject>
