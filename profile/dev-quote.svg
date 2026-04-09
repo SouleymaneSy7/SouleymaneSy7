@@ -66,8 +66,8 @@
     
         </style>
         <div class="container">
-          <h3>There are some basic techniques to control complexity. Fundamentally, I divide and conquer, break things down, and try to write reasonably precise descriptions of what each piece is supposed to do.</h3>
-          <p>- Butler Lampson</p>
+          <h3>Most software today is very much like an Egyptian pyramid with millions of bricks piled on top of each other, with no structural integrity, but just done by brute force and thousands of slaves.</h3>
+          <p>- Alan Kay</p>
         </div>
       </div>
     </foreignObject>
