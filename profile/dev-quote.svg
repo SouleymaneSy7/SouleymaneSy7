@@ -66,8 +66,8 @@
     
         </style>
         <div class="container">
-          <h3>There are few things more frustrating or time wasting than debugging. Wouldn't it be a hell of a lot quicker if we just didn't create the bugs in the first place?</h3>
-          <p>- Martin Fowler</p>
+          <h3>If you want more effective programmers, you will discover that they should not waste their time debugging, they should not introduce the bugs to start with.</h3>
+          <p>- Edsger W. Dijkstra</p>
         </div>
       </div>
     </foreignObject>
