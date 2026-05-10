@@ -66,8 +66,10 @@
     
         </style>
         <div class="container">
-          <h3>People under pressure don’t work better; they just work faster.</h3>
-          <p>- Tom DeMarco</p>
+          <h3>Two things are known about requirements:
+1. They will change!
+2. They will be misunderstood!</h3>
+          <p>- Michael A. Jackson</p>
         </div>
       </div>
     </foreignObject>
