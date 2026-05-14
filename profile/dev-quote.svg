@@ -66,8 +66,8 @@
     
         </style>
         <div class="container">
-          <h3>It's fun to sit at a terminal and let the code flow. It sounds strange, but it just comes out my brain; once I'm started, I don't have to think about it.</h3>
-          <p>- Gary Kildall</p>
+          <h3>Readability of code is now my first priority. It’s more important than being fast, almost as important as being correct, but I think being readable is actually the most likely way of making it correct.</h3>
+          <p>- Douglas Crockford</p>
         </div>
       </div>
     </foreignObject>
