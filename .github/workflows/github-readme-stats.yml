@@ -83,15 +83,16 @@ jobs:
       # ============================================
 
       - name: Download Streak Stats SVG
+        continue-on-error: true
         run: |
-          curl -o profile/streak-stats.svg \
+          curl -f --retry 3 --retry-delay 5 --max-time 30 \
+          -o profile/streak-stats.svg \
           "https://streak-stats.demolab.com?user=${{ github.repository_owner }}&theme=nord&hide_border=true&border_radius=6&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&fire=DD2727&ring=5DBCD2&currStreakLabel=D8DEE9"
 
-      # Verify if the streak stats files is created
       - name: Verify Streak Stats
         run: |
-          if [ ! -s profile/streak-stats.svg ]; then
-            echo "Error: Streak stats file is empty or missing"
+          if [ ! -s profile/streak-stats.svg ] || ! grep -q '<svg' profile/streak-stats.svg; then
+            echo "Error: Streak stats file is empty, missing, or not valid SVG"
             exit 1
           fi
           echo "Streak stats downloaded successfully"
@@ -101,15 +102,16 @@ jobs:
       # ============================================
 
       - name: Download Activity Graph
+        continue-on-error: true
         run: |
-          curl -o profile/activity-graph.svg \
+          curl -f --retry 3 --retry-delay 5 --max-time 30 \
+          -o profile/activity-graph.svg \
           "https://github-readme-activity-graph.vercel.app/graph?username=${{ github.repository_owner }}&theme=nord&custom_title=Souleymane%27s%20Contribution%20Graph&hide_border=true&radius=5"
 
-      # Verify if the activity graph files is created
       - name: Verify Activity Graph
         run: |
-          if [ ! -s profile/activity-graph.svg ]; then
-            echo "Error: Activity Graph file is empty or missing"
+          if [ ! -s profile/activity-graph.svg ] || ! grep -q '<svg' profile/activity-graph.svg; then
+            echo "Error: Activity Graph file is empty, missing, or not valid SVG"
             exit 1
           fi
           echo "Activity Graph downloaded successfully"
@@ -119,15 +121,16 @@ jobs:
       # ============================================
 
       - name: Download Dev Quote
+        continue-on-error: true
         run: |
-          curl -o profile/dev-quote.svg \
+          curl -f --retry 3 --retry-delay 5 --max-time 30 \
+          -o profile/dev-quote.svg \
           "https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord&border=true"
 
-      # Verify if the dev quote files is created
       - name: Verify Dev Quote
         run: |
-          if [ ! -s profile/dev-quote.svg ]; then
-            echo "Error: Dev Quote file is empty or missing"
+          if [ ! -s profile/dev-quote.svg ] || ! grep -q '<svg' profile/dev-quote.svg; then
+            echo "Error: Dev Quote file is empty, missing, or not valid SVG"
             exit 1
           fi
           echo "Dev Quote downloaded successfully"
