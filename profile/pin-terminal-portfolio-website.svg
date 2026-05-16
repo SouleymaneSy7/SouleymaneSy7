@@ -100,7 +100,7 @@
     
 
     <text class="description" x="25" y="-5">
-      <tspan dy="1.2em" x="25">A portfolio website designed to mimic a terminal interface,</tspan><tspan dy="1.2em" x="25">providing a distinctive and interactive way to showcase my</tspan><tspan dy="1.2em" x="25">work and skills. Made with NextJS, Typescript, TailwindCSS...</tspan>
+      <tspan dy="1.2em" x="25">A terminal you actually use like a terminal. 46 commands</tspan><tspan dy="1.2em" x="25">that do real things &#8212; weather, crypto, curl, a quiz,</tspan><tspan dy="1.2em" x="25">todo lists, the whole deal. 31 color themes, 15 fonts, tab...</tspan>
     </text>
 
     <g transform="translate(30, 75)">
