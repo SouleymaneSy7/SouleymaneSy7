@@ -100,7 +100,7 @@
     
 
     <text class="description" x="25" y="-5">
-      <tspan dy="1.2em" x="25">A terminal you actually use like a terminal. 46 commands</tspan><tspan dy="1.2em" x="25">that do real things &#8212; weather, crypto, curl, a quiz,</tspan><tspan dy="1.2em" x="25">todo lists, the whole deal. 31 color themes, 15 fonts, tab...</tspan>
+      <tspan dy="1.2em" x="25">A portfolio website you actually use like a terminal. 46</tspan><tspan dy="1.2em" x="25">commands that do real things &#8212; weather, crypto, curl,</tspan><tspan dy="1.2em" x="25">a quiz, todo lists, the whole deal. 31 color themes, 15...</tspan>
     </text>
 
     <g transform="translate(30, 75)">
