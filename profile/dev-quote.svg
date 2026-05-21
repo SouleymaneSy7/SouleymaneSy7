@@ -66,8 +66,8 @@
     
         </style>
         <div class="container">
-          <h3>The most amazing achievement of the computer software industry is its continuing cancellation of the steady and staggering gains made by the computer hardware industry.</h3>
-          <p>- Henry Petroski</p>
+          <h3>The complexity of software is an essential property, not an accidental one. Hence descriptions of a software entity that abstract away its complexity often abstract away its essence.</h3>
+          <p>- Fred Brooks</p>
         </div>
       </div>
     </foreignObject>
