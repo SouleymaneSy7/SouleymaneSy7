@@ -66,8 +66,8 @@
     
         </style>
         <div class="container">
-          <h3>Thus it is observable that the buildings which a single architect has planned and executed, are generally more elegant and commodious than those which several have attempted to improve.</h3>
-          <p>- René Descartes</p>
+          <h3>Maybe "just one little global variable" isn't too unmanageable, but that style leads to code that is useless except to its original programmer.</h3>
+          <p>- Bjarne Stroustrup</p>
         </div>
       </div>
     </foreignObject>
