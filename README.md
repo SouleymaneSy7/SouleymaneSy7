@@ -61,8 +61,7 @@ Currently working with React, Next.js, TypeScript, and GSAP. Learning Node.js. O
 | 🥉 **Contest Winner**         | 3rd place — Enzo Ustariz Web Development Contest 2024                                                                                                                       |
 | 💼 **Remote Internship**      | DevelopersHub Corporation — Exceptional Distinction certificate                                                                                                             |
 | 📦 **90+ Projects on GitHub** | Challenges, clones, and original work built across 3 years                                                                                                                  |
-| ⭐ **108 GitHub Stars**       | Spread across 90 public repositories                                                                                                                                        |
-| 👥 **430+ Followers**         | —                                                                                                                                                                           |
+| ⭐ **108 GitHub Stars**       | Spread across 90 public repositories                                                                                                                                                                                                                                 |
 | 🌍 **Self-Taught Since 2022** | HTML → CSS → JS → Vue.js → TypeScript → React → Next.js, no formal CS education                                                                                             |
 | 🎓 **Notable Courses**        | Joy of React (Josh Comeau), TypeScript (AcademindPro, Mosh Hamedani), Next.js (FrontendMasters, Jack Herrington), GSAP (Creative Coding Club), Framer Motion (Frontend.fyi) |
 
