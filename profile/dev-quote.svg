@@ -66,8 +66,8 @@
     
         </style>
         <div class="container">
-          <h3>The real problem with throwaway code comes when it isn't thrown away.</h3>
-          <p>- Joseph Yoder (computer scientist)</p>
+          <h3>When in doubt, leave it out.</h3>
+          <p>- Joshua Bloch</p>
         </div>
       </div>
     </foreignObject>
