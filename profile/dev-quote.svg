@@ -66,8 +66,8 @@
     
         </style>
         <div class="container">
-          <h3>Just because you've implemented something doesn't mean you understand it.</h3>
-          <p>- Brian Cantwell Smith</p>
+          <h3>Debugging time increases as a square of the program’s size.</h3>
+          <p>- Chris Wenham</p>
         </div>
       </div>
     </foreignObject>
