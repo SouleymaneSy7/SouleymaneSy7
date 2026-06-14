@@ -66,8 +66,8 @@
     
         </style>
         <div class="container">
-          <h3>Debugging is like being the detective in a crime movie where you are also the murderer.</h3>
-          <p>- Filipe Fortes</p>
+          <h3>There are some basic techniques to control complexity. Fundamentally, I divide and conquer, break things down, and try to write reasonably precise descriptions of what each piece is supposed to do.</h3>
+          <p>- Butler Lampson</p>
         </div>
       </div>
     </foreignObject>
