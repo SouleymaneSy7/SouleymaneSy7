@@ -66,8 +66,8 @@
     
         </style>
         <div class="container">
-          <h3>One of my most productive days was throwing away 1,000 lines of code.</h3>
-          <p>- Ken Thompson</p>
+          <h3>W​henever I have to think to understand what the code is doing, I ask myself if I can refactor the code to make that understanding more immediately apparent.</h3>
+          <p>- Martin Fowler</p>
         </div>
       </div>
     </foreignObject>
