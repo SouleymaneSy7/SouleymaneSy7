@@ -66,8 +66,8 @@
     
         </style>
         <div class="container">
-          <h3>W​henever I have to think to understand what the code is doing, I ask myself if I can refactor the code to make that understanding more immediately apparent.</h3>
-          <p>- Martin Fowler</p>
+          <h3>The key to keeping software costs down is to write code that is easily modified.</h3>
+          <p>- Daniel T. Barry</p>
         </div>
       </div>
     </foreignObject>
