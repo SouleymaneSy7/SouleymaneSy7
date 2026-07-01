@@ -66,8 +66,8 @@
     
         </style>
         <div class="container">
-          <h3>Dealing with failure is easy: Work hard to improve.</h3>
-          <p>- Alan Perlis</p>
+          <h3>Debugging time increases as a square of the program’s size.</h3>
+          <p>- Chris Wenham</p>
         </div>
       </div>
     </foreignObject>
