@@ -66,8 +66,8 @@
     
         </style>
         <div class="container">
-          <h3>Simplicity and elegance are unpopular because they require hard work and discipline to achieve and education to be appreciated.</h3>
-          <p>- Edsger W. Dijkstra</p>
+          <h3>Readability of code is now my first priority. It’s more important than being fast, almost as important as being correct, but I think being readable is actually the most likely way of making it correct.</h3>
+          <p>- Douglas Crockford</p>
         </div>
       </div>
     </foreignObject>
