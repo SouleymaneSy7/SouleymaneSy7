@@ -66,8 +66,8 @@
     
         </style>
         <div class="container">
-          <h3>The most important part of writing a program is designing the data structures.</h3>
-          <p>- Dan Bricklin</p>
+          <h3>There are few things more frustrating or time wasting than debugging. Wouldn't it be a hell of a lot quicker if we just didn't create the bugs in the first place?</h3>
+          <p>- Martin Fowler</p>
         </div>
       </div>
     </foreignObject>
