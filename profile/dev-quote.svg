@@ -66,8 +66,8 @@
     
         </style>
         <div class="container">
-          <h3>Sadly, architecture has been undervalued for so long that many engineers regard life with a Big Ball of Mud as normal.</h3>
-          <p>- Joseph Yoder (computer scientist)</p>
+          <h3>A user interface should be so simple that a beginner in an emergency can understand it within 10 seconds.</h3>
+          <p>- Ted Nelson</p>
         </div>
       </div>
     </foreignObject>
