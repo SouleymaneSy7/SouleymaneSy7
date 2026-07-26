@@ -66,7 +66,7 @@
     
         </style>
         <div class="container">
-          <h3>One must assume that there will be lots of bugs, and plan an orderly procedure for snaking them out.</h3>
+          <h3>The complexity of software is an essential property, not an accidental one. Hence descriptions of a software entity that abstract away its complexity often abstract away its essence.</h3>
           <p>- Fred Brooks</p>
         </div>
       </div>
