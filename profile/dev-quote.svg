@@ -66,8 +66,8 @@
     
         </style>
         <div class="container">
-          <h3>Software gets slower faster than hardware gets faster.</h3>
-          <p>- Niklaus Wirth</p>
+          <h3>Should array indices start at 0 or 1? My compromise of 0.5 was rejected without, I thought, proper consideration.</h3>
+          <p>- Stan Kelly-Bootle</p>
         </div>
       </div>
     </foreignObject>
