@@ -66,8 +66,8 @@
     
         </style>
         <div class="container">
-          <h3>Should array indices start at 0 or 1? My compromise of 0.5 was rejected without, I thought, proper consideration.</h3>
-          <p>- Stan Kelly-Bootle</p>
+          <h3>There are few things more frustrating or time wasting than debugging. Wouldn't it be a hell of a lot quicker if we just didn't create the bugs in the first place?</h3>
+          <p>- Martin Fowler</p>
         </div>
       </div>
     </foreignObject>
