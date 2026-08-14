@@ -66,7 +66,7 @@
     
         </style>
         <div class="container">
-          <h3>There are few things more frustrating or time wasting than debugging. Wouldn't it be a hell of a lot quicker if we just didn't create the bugs in the first place?</h3>
+          <h3>W​henever I have to think to understand what the code is doing, I ask myself if I can refactor the code to make that understanding more immediately apparent.</h3>
           <p>- Martin Fowler</p>
         </div>
       </div>
