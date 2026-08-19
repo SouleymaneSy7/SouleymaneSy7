@@ -66,8 +66,8 @@
     
         </style>
         <div class="container">
-          <h3>It’s all talk until the code runs.</h3>
-          <p>- Ward Cunningham</p>
+          <h3>Fancy algorithms are slow when n is small, and n is usually small.</h3>
+          <p>- Rob Pike</p>
         </div>
       </div>
     </foreignObject>
