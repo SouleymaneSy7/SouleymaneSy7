@@ -66,8 +66,8 @@
     
         </style>
         <div class="container">
-          <h3>When a program is clean and neat, nicely structured, and consistent, it can be beautiful.</h3>
-          <p>- Gary Kildall</p>
+          <h3>Should array indices start at 0 or 1? My compromise of 0.5 was rejected without, I thought, proper consideration.</h3>
+          <p>- Stan Kelly-Bootle</p>
         </div>
       </div>
     </foreignObject>
