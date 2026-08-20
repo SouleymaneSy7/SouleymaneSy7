@@ -66,8 +66,8 @@
     
         </style>
         <div class="container">
-          <h3>Simplicity and elegance are unpopular because they require hard work and discipline to achieve and education to be appreciated.</h3>
-          <p>- Edsger W. Dijkstra</p>
+          <h3>Fancy algorithms are slow when n is small, and n is usually small.</h3>
+          <p>- Rob Pike</p>
         </div>
       </div>
     </foreignObject>
