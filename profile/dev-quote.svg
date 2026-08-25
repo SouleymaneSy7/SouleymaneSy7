@@ -66,8 +66,8 @@
     
         </style>
         <div class="container">
-          <h3>I think it is inevitable that people program poorly. Training will not substantially help matters. We have to learn to live with it.</h3>
-          <p>- Alan Perlis</p>
+          <h3>If you need more than 3 levels of indentation, you're screwed anyway, and should fix your program.</h3>
+          <p>- Linus Torvalds</p>
         </div>
       </div>
     </foreignObject>
