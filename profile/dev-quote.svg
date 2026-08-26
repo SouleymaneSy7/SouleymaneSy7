@@ -66,8 +66,8 @@
     
         </style>
         <div class="container">
-          <h3>If you need more than 3 levels of indentation, you're screwed anyway, and should fix your program.</h3>
-          <p>- Linus Torvalds</p>
+          <h3>It turns out that style matters in programming for the same reason that it matters in writing. It makes for better reading.</h3>
+          <p>- Douglas Crockford</p>
         </div>
       </div>
     </foreignObject>
