@@ -66,8 +66,8 @@
     
         </style>
         <div class="container">
-          <h3>Debugging time increases as a square of the program’s size.</h3>
-          <p>- Chris Wenham</p>
+          <h3>Fancy algorithms are slow when n is small, and n is usually small.</h3>
+          <p>- Rob Pike</p>
         </div>
       </div>
     </foreignObject>
