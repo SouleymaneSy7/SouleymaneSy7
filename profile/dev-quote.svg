@@ -66,8 +66,8 @@
     
         </style>
         <div class="container">
-          <h3>The best thing about a boolean is even if you are wrong, you are only off by a bit.</h3>
-          <p>- Anonymous</p>
+          <h3>When there is no type hierarchy you don’t have to manage the type hierarchy.</h3>
+          <p>- Rob Pike</p>
         </div>
       </div>
     </foreignObject>
