@@ -66,8 +66,8 @@
     
         </style>
         <div class="container">
-          <h3>Sometimes, the elegant implementation is a function. Not a method. Not a class. Not a framework. Just a function.</h3>
-          <p>- John Carmack</p>
+          <h3>The key to keeping software costs down is to write code that is easily modified.</h3>
+          <p>- Daniel T. Barry</p>
         </div>
       </div>
     </foreignObject>
