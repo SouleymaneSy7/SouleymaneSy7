@@ -66,8 +66,8 @@
     
         </style>
         <div class="container">
-          <h3>Just because people tell you it can't be done, that doesn't necessarily mean that it can't be done. It just means that they can't do it.</h3>
-          <p>- Anders Hejlsberg</p>
+          <h3>Software is usually expected to be modified over the course of its productive life. The process of converting one correct program into a different correct program is extremely challenging.</h3>
+          <p>- Douglas Crockford</p>
         </div>
       </div>
     </foreignObject>
