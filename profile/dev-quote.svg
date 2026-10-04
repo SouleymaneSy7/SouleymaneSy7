@@ -66,8 +66,8 @@
     
         </style>
         <div class="container">
-          <h3>Part of what makes programming difficult is most of the time we’re doing stuff we’ve never done before.</h3>
-          <p>- Douglas Crockford</p>
+          <h3>The fundamental problem with program maintenance is that fixing a defect has a substantial (20-50 percent) chance of introducing another. So the whole process is two steps forward and one step back.</h3>
+          <p>- Fred Brooks</p>
         </div>
       </div>
     </foreignObject>
