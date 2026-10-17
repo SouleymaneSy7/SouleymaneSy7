@@ -66,8 +66,8 @@
     
         </style>
         <div class="container">
-          <h3>A clever person solves a problem. A wise person avoids it.</h3>
-          <p>- Albert Einstein</p>
+          <h3>Testing can be a very effective way to show the presence of bugs, but it is hopelessly inadequate for showing their absence.</h3>
+          <p>- Edsger W. Dijkstra</p>
         </div>
       </div>
     </foreignObject>
