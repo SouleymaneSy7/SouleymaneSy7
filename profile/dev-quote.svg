@@ -66,8 +66,8 @@
     
         </style>
         <div class="container">
-          <h3>The effective exploitation of his powers of abstraction must be regarded as one of the most vital activities of a competent programmer.</h3>
-          <p>- Edsger W. Dijkstra</p>
+          <h3>W​henever I have to think to understand what the code is doing, I ask myself if I can refactor the code to make that understanding more immediately apparent.</h3>
+          <p>- Martin Fowler</p>
         </div>
       </div>
     </foreignObject>
