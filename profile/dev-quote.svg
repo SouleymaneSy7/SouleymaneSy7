@@ -66,8 +66,8 @@
     
         </style>
         <div class="container">
-          <h3>What is simplicity? Simplicity is the shortest path to a solution.</h3>
-          <p>- Ward Cunningham</p>
+          <h3>The proper use of comments is to compensate for our failure to express ourself in code.</h3>
+          <p>- Robert C. Martin</p>
         </div>
       </div>
     </foreignObject>
