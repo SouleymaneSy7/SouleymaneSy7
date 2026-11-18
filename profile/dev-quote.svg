@@ -66,8 +66,8 @@
     
         </style>
         <div class="container">
-          <h3>Simplicity is hard to build, easy to use, and hard to charge for. Complexity is easy to build, hard to use, and easy to charge for.</h3>
-          <p>- Chris Sacca</p>
+          <h3>Readability of code is now my first priority. It’s more important than being fast, almost as important as being correct, but I think being readable is actually the most likely way of making it correct.</h3>
+          <p>- Douglas Crockford</p>
         </div>
       </div>
     </foreignObject>
